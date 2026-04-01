@@ -1,7 +1,3 @@
-# Check if package.json exists
-ls package.json
-
-# If not, create it with:
 cat > package.json << 'EOF'
 {
   "name": "encrypted-chat",
