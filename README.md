@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🔒 Private Encrypted Chat
 
 End-to-end encrypted chat application for small groups (max 10 participants). No phone number or email required.
